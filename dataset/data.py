@@ -1,0 +1,1103 @@
+
+SUBWAY_DATASET = [
+    {
+        "Linha": "Linha 1-Azul",
+        "Estacoes": [
+            {
+                "Estação": "Estação Tucuruvi",
+                "Endereço": "Av. Dr. Antonio Maria Laet, 100 – Tucuruvi",
+                "Integração": ""
+            },
+            {
+                "Estação": "Estação Parada Inglesa",
+                "Endereço": "Av. Luiz Dumont Villares, 1721 – Parada Inglesa",
+                "Integração": ""
+            },
+            {
+                "Estação": "Estação Jardim São Paulo – Ayrton Senna",
+                "Endereço": "Av. Leôncio de Magalhães, 1000 – Jardim São Paulo",
+                "Integração": ""
+            },
+            {
+                "Estação": "Estação Santana",
+                "Endereço": "Avenida Cruzeiro do Sul, 3173",
+                "Integração": ""
+            },
+            {
+                "Estação": "Estação Carandiru",
+                "Endereço": "Av. Cruzeiro do Sul, 2487 – Santana",
+                "Integração": ""
+            },
+            {
+                "Estação": "Estação Portuguesa – Tietê",
+                "Endereço": "Av. Cruzeiro do Sul, 1777 – Santana",
+                "Integração": ""
+            },
+            {
+              "Estação": "Estação Armênia",
+              "Endereço": "Rua Pedro Vicente, 47 – Bom Retiro",
+              "Integração": ""
+            },
+            {
+                "Estação": "Estação Tiradentes",
+                "Endereço": "Av. Tiradentes, 551 – Bom Retiro",
+                "Integração": ""
+            },
+            {
+                "Estação": "Estação Luz",
+                "Endereço": "Av. Prestes Maia, 925 – Luz",
+                "Integração": "Linha 4-Amarela,Linha 7-Rubi,Linha 11-Coral"
+            },
+            {
+                "Estação": "Estação São Bento",
+                "Endereço": "Largo São Bento,109",
+                "Integração": ""
+            },
+            {
+                "Estação": "Estação Sé",
+                "Endereço": "Praça da Sé , s/nº",
+                "Integração": "Linha 3- Vermelha"
+            },
+            {
+                "Estação": "Estação Liberdade",
+                "Endereço": "Praça da Liberdade, 133 – Liberdade",
+                "Integração": ""
+            },
+            {
+                "Estação": "Estação São Joaquim",
+                "Endereço": "Av. Liberdade, 1033, Liberdade",
+                "Integração": ""
+            },
+            {
+                "Estação": "Estação Vergueiro",
+                "Endereço": "Rua Vergueiro, 790",
+                "Integração": ""
+            },
+            {
+                "Estação": "Estação Paraíso",
+                "Endereço": "Rua Vergueiro, 1465 – Paraíso",
+                "Integração": "Linha 2-Verde"
+            },
+            {
+                "Estação": "Estação Ana Rosa",
+                "Endereço": "Rua Vergueiro, 505 – Vila Mariana",
+                "Integração": "Linha 2-Verde"
+            },
+            {
+                "Estação": "Estação Vila Mariana",
+                "Endereço": "Av. Profº. Noé Azevedo, 255",
+                "Integração": ""
+            },
+            {
+                "Estação": "Estação Santa Cruz",
+                "Endereço": "Rua Domingos de Morais, 2564, Vila Mariana",
+                "Integração": "Linha 5-Lilás"
+            },
+            {
+              "Estação": "Estação Praça da Árvore",
+              "Endereço": "Praça da Árvore, 39 – Praça da Árvore",
+              "Integração": ""
+            },
+            {
+                "Estação": "Estação Saúde",
+                "Endereço": "Avenida Jabaquara, 1634",
+                "Integração": ""
+            },
+            {
+                "Estação": "Estação São Judas",
+                "Endereço": "Avenida Jabaquara, 2438",
+                "Integração": ""
+            },
+            {
+                "Estação": "Estação Conceição",
+                "Endereço": "Avenida Engº. Armando de Arruda Pereira, 919",
+                "Integração": ""
+            },
+            {
+                "Estação": "Estação Jabaquara",
+                "Endereço": "Rua dos Jequitibás, 80 – Jabaquara",
+                "Integração": ""
+            }
+           ]
+    },
+    {
+        "Linha": "Linha 2-Verde",
+        "Estacoes": [
+            {
+                "Estação": "Estação Vila Madalena",
+                "Endereço": "Praça Américo Jacomino, 30",
+                "Integração": ""
+            },
+            {
+                "Estação": "Estação Sumaré",
+                "Endereço": "Avenida Doutor Arnaldo, 1470, Sumaré",
+                "Integração": ""
+            },
+            {
+                "Estação": "Estação Clínicas",
+                "Endereço": "Av Dr Arnaldo, 555",
+                "Integração": ""
+            },
+            {
+                "Estação": "Estação Consolação",
+                "Endereço": "Av Paulista, s/nº (altura 2160)",
+                "Integração": "Linha 4-Amarela"
+            },
+            {
+                "Estação": "Estação Trianon MASP",
+                "Endereço": "Avenida Paulista, s/nº (altura 1480)",
+                "Integração": ""
+            },
+            {
+                "Estação": "Estação Brigadeiro",
+                "Endereço": "Avenida Paulista, s/nº (altura 440)",
+                "Integração": ""
+            },
+            {
+                "Estação": "Estação Paraíso",
+                "Endereço": "Rua Vergueiro, 1465 – Paraíso",
+                "Integração": "Linha 1-Azul"
+            },
+            {
+                "Estação": "Estação Ana Rosa",
+                "Endereço": "Rua Vergueiro, 505 – Vila Mariana",
+                "Integração": "Linha 1-Azul"
+            },
+            {
+                "Estação": "Estação Chácara Klabin",
+                "Endereço": "Rua Vergueiro, s/n",
+                "Integração": "Linha 5-Lilás"
+            },
+            {
+                "Estação": "Estação Santos – Imigrantes",
+                "Endereço": "Rua Saioá, esquina, s/n",
+                "Integração": ""
+            },
+            {
+              "Estação": "Estação Alto do Ipiranga",
+              "Endereço": "Avenida Dr. Gentil de Moura, s/n",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Sacomã",
+              "Endereço": "Rua Agostinho Gomes , s/n",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Tamanduateí",
+              "Endereço": "Rua Vemag, 1000, Vila Carioca",
+              "Integração": "Linha 10-Turquesa"
+            },
+            {
+              "Estação": "Estação Vila Prudente",
+              "Endereço": "Avenida Luiz Inácio de Anhaia Mello, s/n, Vila Prudente",
+              "Integração": ""
+            }
+           ]
+    },
+    {
+        "Linha":"Linha 3-Vermelha",
+        "Estacoes": [
+            {
+                "Estação": "Estação Palmeiras – Barra Funda",
+                "Endereço": "Rua Mário de Andrade, 664, Barra Funda",
+                "Integração": "Linha 7-Rubi,Linha 8-Diamante"
+            },
+            {
+                "Estação": "Estação Marechal Deodoro",
+                "Endereço": "Praça Marechal Deodoro, s/nº, Santa Cecília",
+                "Integração": ""
+            },
+            {
+                "Estação": "Estação Santa Cecília",
+                "Endereço": "Largo Santa Cecília, s/nº",
+                "Integração": ""
+            },
+            {
+                "Estação": "Estação República",
+                "Endereço": "Rua do Arouche, 24",
+                "Integração": "Linha 4-Amarela"
+            },
+            {
+              "Estação": "Estação Anhangabaú",
+              "Endereço": "Rua Formosa, s/nº (próxima à Praça da Bandeira)",
+              "Integração": ""
+            },
+            {
+                "Estação": "Estação Sé",
+                "Endereço": "Praça da Sé , s/nº",
+                "Integração": "Linha 1-Azul"
+            },
+            {
+                "Estação": "Estação Pedro II",
+                "Endereço": "Rua da Figueira, s/nº",
+                "Integração": ""
+            },
+            {
+                "Estação": "Estação Brás",
+                "Endereço": "Praça Agente Cícero, S/N – Brás",
+                "Integração": "Linha 7-Rubi,Linha 10-Turquesa,Linha 12-Safira,Linha 13-Jade"
+            },
+            {
+                "Estação": "Estação Bresser – Mooca",
+                "Endereço": "Av. Pres. Wilson, 483,",
+                "Integração": ""
+            },
+            {
+                "Estação": "Estação Belém",
+                "Endereço": "Avenida Alcântara Machado, s/nº",
+                "Integração": ""
+            },
+            {
+                "Estação": "Estação Tatuapé",
+                "Endereço": "R. Catiguá, S/N – Tatuapé",
+                "Integração": "Linha 11-Coral,Linha 12-Safira"
+            },
+            {
+                "Estação": "Estação Carrão",
+                "Endereço": "Radial Leste, esquina com Rua Apucarana",
+                "Integração": ""
+            },
+            {
+                "Estação": "Estação Penha",
+                "Endereço": "Rua Conde de Frontin, s/nº",
+                "Integração": ""
+            },
+            {
+                "Estação": "Estação Vila Matilde",
+                "Endereço": "Rua Cel. Pedro Dias de Campos, 1173, Vila Matilde",
+                "Integração": ""
+            },
+            {
+                "Estação": "Estação Guilhermina – Esperança",
+                "Endereço": "Rua Astorga, 800",
+                "Integração": ""
+            },
+            {
+                "Estação": "Estação Patriarca",
+                "Endereço": "Rua Antonio E. Carvalho, 1990, Cidade Patriarca",
+                "Integração": ""
+            },
+            {
+              "Estação": "Estação Artur Alvim",
+              "Endereço": "Avenida Dr. Luiz Aires, 1800",
+              "Integração": ""
+            },
+            {
+                "Estação": "Estação Corinthians – Itaquera",
+                "Endereço": "Av. José Pinheiro Borges, s/n",
+                "Integração": "Linha 11-Coral"
+              }
+           ]
+    },
+    {
+        "Linha":"Linha 4-Amarela",
+        "Estacoes": [
+            {
+                "Estação": "Estação Luz",
+                "Endereço": "Av. Prestes Maia, 925 – Luz",
+                "Integração": "Linha 1-Azul,Linha 7-Rubi,Linha 11-Coral"
+            },
+            {
+                "Estação": "Estação República",
+                "Endereço": "Rua do Arouche, 24",
+                "Integração": "Linha 3-Vermelha"
+            },
+            {
+                "Estação": "Estação Higienópolis",
+                "Endereço": "Rua Consolação x Rua Piauí",
+                "Integração": ""
+            },
+            {
+                "Estação": "Estação Paulista",
+                "Endereço": "Avenida Consolação x Avenida Paulista",
+                "Integração": "Linha 2-Verde->Estação Consolação"
+            },
+            {
+                "Estação": "Estação Oscar Freire",
+                "Endereço": "Rua Rebouças x Rua Oscar Freire",
+                "Integração": ""
+            },
+            {
+                "Estação": "Estação Fradique Coutinho",
+                "Endereço": "R. Fradique Coutinho x R. dos Pinheiros",
+                "Integração": ""
+            },
+            {
+                "Estação": "Estação Faria Lima",
+                "Endereço": "Av. Brig. Faria Lima, 950",
+                "Integração": ""
+            },
+            {
+                "Estação": "Estação Pinheiros",
+                "Endereço": "Rua Capri, 145",
+                "Integração": "Linha 9- Esmeralda"
+            },
+            {
+              "Estação": "Estação Butantã",
+              "Endereço": "Av. Vital Brasil com Rua Pirajussara",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação São Paulo – Morumbi",
+              "Endereço": "Avenida Jorge João Saad x Rua Maurílio Vergueiro",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Vila Sônia",
+              "Endereço": "Rua Heitor dos Prazeres, s/n",
+              "Integração": ""
+            }
+           ]
+    },
+    {
+        "Linha": "Linha 5-Lilás",
+        "Estacoes": [     
+            {
+                "Estação": "Estação Capão Redondo",
+                "Endereço": "Avenida Carlos Caldeira Filho x Estrada de Itapecerica",
+                "Integração": ""
+            },
+            {
+                "Estação": "Estação Campo Limpo",
+                "Endereço": "Rua Noanama, nº 85.",
+                "Integração": ""
+            }, 
+            {
+                "Estação": "Estação Vila Das Belezas",
+                "Endereço": "Avenida das Belezas, nº 880.",
+                "Integração": ""
+            },
+            {
+                "Estação": "Estação Giovanni Gronchi",
+                "Endereço": "Avenida João Dias, nº 3569.",
+                "Integração": ""
+            },
+            {
+                "Estação": "Estação Santo Amaro",
+                "Endereço": "Av das Nações Unidas, sem número",
+                "Integração": "Linha 9-Esmeralda"
+            },
+            {
+                "Estação": "Estação Largo 13",
+                "Endereço": "Avenida Padre José Maria, s/n.",
+                "Integração": ""
+            },
+            {
+                "Estação": "Estação Adolfo Pinheiro",
+                "Endereço": "Av. Adolfo Pinheiro, nº 301.",
+                "Integração": ""
+            },
+            {
+                "Estação": "Estação Alto da Boa Vista",
+                "Endereço": "Av. Santo Amaro, nº 6960.",
+                "Integração": ""
+            },
+            {
+                "Estação": "Estação Borba Gato",
+                "Endereço": "Avenida Santo Amaro, nº 5869.",
+                "Integração": ""
+            },
+            {
+                "Estação": "Estação Brooklin",
+                "Endereço": "Avenida Santo Amaro, nº 5010.",
+                "Integração": ""
+            },
+            {
+                "Estação": "Estação Campo Belo",
+                "Endereço": "Av. Jornalista Roberto Marinho × Av. Santo Amaro.",
+                "Integração": ""
+            },
+            {
+                "Estação": "Estação Eucaliptos",
+                "Endereço": "Avenida Ibirapuera, nº 3144",
+                "Integração": ""
+            },
+            {
+                "Estação": "Estação Moema",
+                "Endereço": "Av. Ibirapuera × Av. Divino",
+                "Integração": ""
+            },
+            {
+                "Estação": "Estação AACD-Servidor",
+                "Endereço": "Rua Pedro de Toledo, nº 1601.",
+                "Integração": ""
+            },
+            {
+                "Estação": "Estação Hospital São Paulo",
+                "Endereço": "Rua Pedro de Toledo, nº 937",
+                "Integração": ""
+            },
+            {
+                "Estação": "Estação Santa Cruz",
+                "Endereço": "Rua Domingos de Morais, nº s2564",
+                "Integração": "Linha 1-Azul"
+            },
+            {
+                "Estação": "Estação Chácara Klabin",
+                "Endereço": "Rua Vergueiro",
+                "Integração": "Linha 2-Verde"
+            }
+           ]
+    },
+    {
+        "Linha": "Linha 15-Prata",
+        "Estacoes": [
+            {
+              "Estação": "Estação Vila Prudente",
+              "Endereço": "Av. Professor Luiz Ignácio Anhaia Mello, 1359",
+              "Integração": "Linha 2-Verde"
+            },
+            {
+              "Estação": "Estação Oratório",
+              "Endereço": "Av. Professor Luiz Ignácio Anhaia Mello, 3250",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação São Lucas",
+              "Endereço": "Vila Ema, 03155-100",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Camilo Haddad",
+              "Endereço": "Av. Professor Luiz Ignácio Anhaia Mello, 6494-6522 – Vila Divina Pastora",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Vila Tolstói",
+              "Endereço": "Av. Professor Luiz Ignácio Anhaia Mello, 7753 – Vila Ema",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Vila União",
+              "Endereço": "Vila Nova Pauliceia, 03294-200",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Jardim Planalto",
+              "Endereço": "Av. Sapopemba, 10000",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Sapopemba",
+              "Endereço": "Jardim Sapopemba, São Paulo – SP",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Fazenda da Juta",
+              "Endereço": "Av. Sapopemba, 12580 – Jardim Adutora",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação São Mateus",
+              "Endereço": "Av. Sapopemba, 15.000 – Jardim Adutora",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Jardim Colonial",
+              "Endereço": "Av. Ragueb Chohfi, 1400, São Mateus",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Iguatemi",
+              "Endereço": "–",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Jequiriçá",
+              "Endereço": "–",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Jacú- Pessêgo",
+              "Endereço": "–",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Érico Semer",
+              "Endereço": "–",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Márcio Beck",
+              "Endereço": "–",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Cidade Tiradentes",
+              "Endereço": "–",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Hospital Cidade Tiradentes",
+              "Endereço": "–",
+              "Integração": ""
+            }
+           ]
+    },
+    {
+        "Linha":"Linha 7-Rubi",
+        "Estacoes": [
+            {
+              "Estação": "Estação Brás",
+              "Endereço": "Rua Domingos Paiva – Brás",
+              "Integração": "Linha 12-Safira,Linha 11-Coral,Linha 10-Turquesa,Linha 3-Vermelha"
+            },
+            {
+              "Estação": "Estação Luz",
+              "Endereço": "Praça da Luz, nº 1- Bom Retiro",
+              "Integração": "Linha 11-Coral,Linha 1-Azul,Linha 4-Amarela"
+            },
+            {
+              "Estação": "Estação Palmeiras Barra Funda",
+              "Endereço": "Avenida Auro Soares de Moura Andrade, 664 (Barra Funda)",
+              "Integração": "Linha 8-Diamante,Linha 3-Vermelha"
+            },
+            {
+              "Estação": "Estação Água Branca",
+              "Endereço": "Avenida Santa Marina- Água Branca",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Lapa",
+              "Endereço": "Rua William Speers, nº 863",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Piqueri",
+              "Endereço": "Rua José Peres Campelo – Piqueri",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Pirituba",
+              "Endereço": "Rua Camarões- (Chácara Inglesa)",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Vila Clarice",
+              "Endereço": "Praça Comendador Souza Cruz – Jaraguá",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Jaguará",
+              "Endereço": "Estrada de Taipas, s/nº – Jaraguá",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Vila Aurora",
+              "Endereço": "Rua Francisco da Cunha Menezes, 1066 – Jardim Santa Lucrécia",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Perus",
+              "Endereço": "Avenida Dr. Silvio de Campos-(Vila Perus)",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Caieiras",
+              "Endereço": "Rodovia Tancredo de Almeida Neves, Km 34 – Centro – Caieiras",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Franco da Rocha",
+              "Endereço": "Rua Cavalheiro Ângelo Sestini, 200 (Vila Artur Sestini",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Baltazar Fidélis",
+              "Endereço": "Avenida Israel, s/nº (Vila Bela)/ Estrada da Paradinha,",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Francisco Morato",
+              "Endereço": "Rua Gerônimo Caetano Garcia, s/nº",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Botujuru",
+              "Endereço": "Rua Bela Vista, s/nº (Botujuru)",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Campo Limpo Paulista",
+              "Endereço": "Rua Felícia Pereira Pinto, s/nº (Vila Thomazina)",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Várzea Paulista",
+              "Endereço": "Rua Antônio Feres Sada, s/nº",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Jundiaí",
+              "Endereço": "Avenida União dos Ferroviários s/nº – Ponte de    Campinas",
+              "Integração": ""
+            }
+        ]
+    },
+    {
+        "Linha":"Linha 8-Diamante",
+        "Estacoes": [
+            {
+              "Estação": "Estação  Júlio Prestes",
+              "Endereço": "R. Marquês de Itu – Vila Buarque",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Palmeiras-Barra Funda",
+              "Endereço": "Rua Bento Teobaldo Ferraz, 119 – Barra Funda",
+              "Integração": "Linha 3-Vermelha,Linha 7-Rubi"
+            },
+            {
+              "Estação": "Estação Lapa",
+              "Endereço": "Lapa de Baixo, São Paulo",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Domingo de Moraes",
+              "Endereço": "Rua João Tibiriçá, Lapa",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Imperatriz Leopoldina",
+              "Endereço": "Av. Imperatriz Leopoldina, 1641 – Vila Leopoldina",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Presidente Altino",
+              "Endereço": "Industrial Autonomistas, Osasco",
+              "Integração": "Linha 9-Esmeralda"
+            },
+            {
+              "Estação": "Estação Osasco",
+              "Endereço": "Centro, Osasco",
+              "Integração": "Linha 9-Esmeralda"
+            },
+            {
+              "Estação": "Estação Comandante Sampaio",
+              "Endereço": "Av. dos Autonomistas, 4970",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Quitaúna",
+              "Endereço": "Av. dos Autonomistas – Km 18, Osasco",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação General Miguel Costa",
+              "Endereço": "Av. dos Autonomistas – Km 18, Osasco",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Carapicuíba",
+              "Endereço": "Vila Gustavo Correia, Carapicuíba",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Santa Teresinha",
+              "Endereço": "Rua Dep. Emílio Carlos, 900",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Antônio João",
+              "Endereço": "Nova Aldeinha, Barueri",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Barueri",
+              "Endereço": "Centro, Barueri",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Jardim Belval",
+              "Endereço": "Vila Iracema, Barueri",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Jardim Silveira",
+              "Endereço": "Vila Iracema, Barueri",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Jandira",
+              "Endereço": "Av. João Balhesteiro, 2013 – Centro, Jandira",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Sagrado Coração",
+              "Endereço": "Jardim Alvorada, Jandira",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Engenheiro Cardoso",
+              "Endereço": "Jardim Dona Elvira, Itapevi",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Itapevi",
+              "Endereço": "R. João Pires de Oliveira, 51 – Nova Itapevi",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Santa Rita",
+              "Endereço": "Jardim Portela, Itapevi",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Cimenrita",
+              "Endereço": "Jardim Portela, Itapevi",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Ambuitá",
+              "Endereço": "Amador Bueno, Itapevi",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Amador Bueno",
+              "Endereço": "jardim Santo Antônio, Itapevi",
+              "Integração": ""
+            }
+        ]
+    },
+    {
+        "Linha":"Linha 9-Esmeralda",
+        "Estacoes": [
+            {
+              "Estação": "Estação Osasco",
+              "Endereço": "Centro-Osasco",
+              "Integração": "Linha 8-Diamante"
+            },
+            {
+              "Estação": "Estação Presidente Altino",
+              "Endereço": "Industrial Autonomistas, Osasco",
+              "Integração": "Linha 8-Diamante"
+            },
+            {
+              "Estação": "Estação Ceasa",
+              "Endereço": "Vila Leopoldina, São Paulo",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Villa-Lobos Jaguaré",
+              "Endereço": "Vila Hamburguesa, São Paulo",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Cidade Universitária",
+              "Endereço": "Av. das Nações Unidas, 6200 – Pinheiros",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Pinheiros",
+              "Endereço": "R. Capri, 145 – Pinheiros",
+              "Integração": "Linha 4-Amarela"
+            },
+            {
+              "Estação": "Estação Hebraica-Rebouças",
+              "Endereço": "R. Ofélia – Pinheiros",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Cidade Jardim",
+              "Endereço": "R. Prof. Artur Ramos, 787 – Jardim Paulistano",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Vila Olímpia",
+              "Endereço": "Marginal Pinheiros, 7522 – Pinheiros",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Berrini",
+              "Endereço": "Jardim Panorama, São Paulo",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação  Morumbi",
+              "Endereço": "Avenida das Nações Unidas, 14.171 – Vila Gertrudes",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Granja Julieta",
+              "Endereço": "Retiro Morumbi, São Paulo",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Santo Amaro",
+              "Endereço": "Av. Guido Caloi, 2221 – Santo Amaro",
+              "Integração": "Linha 5-Lilás"
+            },
+            {
+              "Estação": "Estação Socorro",
+              "Endereço": "Largo do Socorro – Jardim São Luís",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Jurubatuba",
+              "Endereço": "Jurubatuba, São Paulo",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Autódromo",
+              "Endereço": "Interlagos, São Paulo",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Primavera-Interlagos",
+              "Endereço": "Parque Alto do Rio Bonito, São Paulo",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Grajaú",
+              "Endereço": "Parque Alto do Rio Bonito, São Paulo",
+              "Integração": ""
+            }
+        ]
+    },
+    {
+        "Linha":"Linha 10-Turquesa",
+        "Estacoes": [
+            {
+              "Estação": "Estação Brás",
+              "Endereço": "​​Rua Domingos Paiva s/nº – Brás",
+              "Integração": "Linha 12-Safira,Linha 11-Coral,Linha 7-Rubi,Linha 3-Vermelha"
+            },
+            {
+              "Estação": "Estação Juventus Mooca",
+              "Endereço": "Avenida Presidente Wilson, 483",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Ipiranga",
+              "Endereço": "Avenida Presidente Wilson, 3.473 (Vila Independência)",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Tamanduateí",
+              "Endereço": "Rua Guamiranga, 600",
+              "Integração": "Linha 2-Verde"
+            },
+            {
+              "Estação": "Estação São Caetano do Sul",
+              "Endereço": "Rua Serafim Constantino, 51",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Utinga",
+              "Endereço": "Avenida da Paz-Utinga",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Prefeito Saladino",
+              "Endereço": "Praça Armando Arruda",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Pref Celso Daniel-ABC",
+              "Endereço": "Rua Itambé- Santo André",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Capuava",
+              "Endereço": "Avenida Padre Manoel da Nóbrega,- Capuava",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Mauá",
+              "Endereço": "Avenida Rio Branco",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Guapituba",
+              "Endereço": "Avenida Brasil",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Ribeirão Pires",
+              "Endereço": "Rua Capitão José Gallo",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Rio Grande da Serra",
+              "Endereço": "Rua Guilherme Pinto Monteiro",
+              "Integração": ""
+            }
+           ]
+    },
+    {
+        "Linha":"Linha 11-Coral",
+        "Estacoes": [
+            {
+              "Estação": "Estação Luz",
+              "Endereço": "Praça da Luz, nº 1- Bom Retiro",
+              "Integração": "Linha 7-Rubi,Linha 1-Azul,Linha 4-Amarelo"
+            },
+            {
+              "Estação": "Estação Brás",
+              "Endereço": "Rua Domingos Paiva s/nº – Brás",
+              "Integração": "Linha 12-Safira,Linha 10-Turquesa,Linha 7-Rubi,Linha 3-Vermelha"
+            },
+            {
+              "Estação": "Estação Tatuapé",
+              "Endereço": "Rua Catiguá, 174",
+              "Integração": "Linha 3-Vermelha"
+            },
+            {
+              "Estação": "Estação Corinthians-Itaquera",
+              "Endereço": "Rua do Contorno, 60 – Vila Campanela",
+              "Integração": "Linha 3-Vermelha"
+            },
+            {
+              "Estação": "Estação Dom Bosco",
+              "Endereço": "Rua Sábbado D’angelo, 1024",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação José Bonifácio",
+              "Endereço": "Avenida Nagib Farah Maluf, 1500",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Guaianazes",
+              "Endereço": "Avenida Salvador Gianetti – Guaianazes",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Antônio Gianetti Netto",
+              "Endereço": "Jardim Júlio de Carvalho, Ferraz de Vasconcelos",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Ferraz de Vasconcelos",
+              "Endereço": "Praça da Independência – Centro",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Poá",
+              "Endereço": "Rua Herculano Duarte Ribas",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Calmon Viana",
+              "Endereço": "Avenida Brasil, 1041",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Suzano",
+              "Endereço": "Av. Major Pinheiros Fróes, 55",
+              "Integração": "Linha 12-Safira"
+            },
+            {
+              "Estação": "Estação Jundiapeba",
+              "Endereço": "Rua Áurea Martins dos Anjos,",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Brás Cubas",
+              "Endereço": "Av. Anchieta, 1355",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Mogi das Cruzes",
+              "Endereço": "Praça Sacadura Cabra",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Estudantes",
+              "Endereço": "Rua Professor Álvaro Pavan",
+              "Integração": ""
+            }
+        ]
+    },
+    {
+        "Linha": "Linha 12-Safira",
+        "Estacoes": [
+            {
+              "Estação": "Estação Brás",
+              "Endereço": "​​Rua Domingos Paiva s/nº – Brás",
+              "Integração": "Linha 11-Coral,Linha 10-Turquesa,Linha 7-Rubi,Linha 3-Vermelha"
+            },
+            {
+              "Estação": "Estação Tatuapé",
+              "Endereço": "Rua Catiguá, 174",
+              "Integração": "Linha 3-Vermelha"
+            },
+            {
+              "Estação": "Estação Engenheiro Goulart",
+              "Endereço": "Av. Dr. Assis Ribeiro, 3470",
+              "Integração": "Linha 13-Jade"
+            },
+            {
+              "Estação": "Estação USP Leste",
+              "Endereço": "Av. Dr. Assis Ribeiro, 6.081",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Comendador Ermelino",
+              "Endereço": "Avenida Dr. Assis Ribeiro, 8.454",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação São Miguel Paulista",
+              "Endereço": "Rua Beraldo Marcondes, 136",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Jardim Helena",
+              "Endereço": "Rua São Gonçalo do Rio das Pedras, 1.200",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Itaim Paulista",
+              "Endereço": "Rua Rafael Correa da Silva, 13",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Jardim Romano",
+              "Endereço": "Rua José Alvares Moreira, 349",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Eng Manoel Feio",
+              "Endereço": "Av. Eldorado- Vila Gepina",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Itaquaquecetuba",
+              "Endereço": "Avenida Presidente Tancredo Neves, 746",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Aracaré",
+              "Endereço": "Rua Rio de Janeiro-Vila Miranda",
+              "Integração": ""
+            },
+            {
+              "Estação": "Estação Calmon Viana",
+              "Endereço": "Avenida Brasil, 1041",
+              "Integração": "Linha 11-Coral"
+            }
+        ]
+    },
+    {
+       "Linha":"Linha 13-Jade",
+       "Estacoes": [
+        {
+          "Estação": "Estação Engenheiro Goulart",
+          "Endereço": "Av. Dr. Assis Ribeiro, 3470",
+          "Integração": "Linha 12-Safira"
+        },
+        {
+          "Estação": "Estação Guarulhos",
+          "Endereço": "Av. Natália Zarif, 460",
+          "Integração": ""
+        },
+        {
+          "Estação": "Estação Aeroporto de Guarulhos",
+          "Endereço": "Av. Marginal do Rio Baquirivu, 3300",
+          "Integração": ""
+        }
+       ]
+    }
+]
