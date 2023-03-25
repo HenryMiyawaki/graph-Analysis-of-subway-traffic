@@ -1,0 +1,347 @@
+[
+  {
+    "Linha": "Linha 1-Azul",
+    "Estacoes": [
+      {
+        "Estação": "Jabaquara",
+        "Passageiros": {
+          "Média Diária": 64
+        }
+      },
+      {
+        "Estação": "Conceição",
+        "Passageiros": {
+          "Média Diária": 22
+        }
+      },
+      {
+        "Estação": "São Judas",
+        "Passageiros": {
+          "Média Diária": 13
+        }
+      },
+      {
+        "Estação": "Saúde",
+        "Passageiros": {
+          "Média Diária": 24
+        }
+      },
+      {
+        "Estação": "Praça da Árvore",
+        "Passageiros": {
+          "Média Diária": 14
+        }
+      },
+      {
+        "Estação": "Santa Cruz",
+        "Passageiros": {
+          "Média Diária": 85
+        }
+      },
+      {
+        "Estação": "Vila Mariana",
+        "Passageiros": {
+          "Média Diária": 17
+        }
+      },
+      {
+        "Estação": "Ana Rosa",
+        "Passageiros": {
+          "Média Diária": 65
+        }
+      },
+      {
+        "Estação": "Paraíso",
+        "Passageiros": {
+          "Média Diária": 80
+        }
+      },
+      {
+        "Estação": "Vergueiro",
+        "Passageiros": {
+          "Média Diária": 23
+        }
+      },
+      {
+        "Estação": "São Joaquim",
+        "Passageiros": {
+          "Média Diária": 23
+        }
+      },
+      {
+        "Estação": "Liberdade - Japão",
+        "Passageiros": {
+          "Média Diária": 19
+        }
+      },
+      {
+        "Estação": "Sé",
+        "Passageiros": {
+          "Média Diária": 159
+        }
+      },
+      {
+        "Estação": "São Bento",
+        "Passageiros": {
+          "Média Diária": 47
+        }
+      },
+      {
+        "Estação": "Luz",
+        "Passageiros": {
+          "Média Diária": 112
+        }
+      },
+      {
+        "Estação": "Tiradentes",
+        "Passageiros": {
+          "Média Diária": 14
+        }
+      },
+      {
+        "Estação": "Armênia",
+        "Passageiros": {
+          "Média Diária": 19
+        }
+      },
+      {
+        "Estação": "Portuguesa-Tietê",
+        "Passageiros": {
+          "Média Diária": 42
+        }
+      },
+      {
+        "Estação": "Carandiru",
+        "Passageiros": {
+          "Média Diária": 10
+        }
+      },
+      {
+        "Estação": "Santana",
+        "Passageiros": {
+          "Média Diária": 45
+        }
+      },
+      {
+        "Estação": "Jardim São Paulo-Ayrton Senna",
+        "Passageiros": {
+          "Média Diária": 10
+        }
+      },
+      {
+        "Estação": "Parada Inglesa",
+        "Passageiros": {
+          "Média Diária": 10
+        }
+      },
+      {
+        "Estação": "Tucuruvi",
+        "Passageiros": {
+          "Média Diária": 51
+        }
+      }
+    ]
+  },
+  {
+    "Linha": "Linha 2-Verde",
+    "Estacoes": [
+      {
+        "Estação": "Vila Prudente",
+        "Passageiros": {
+          "Média Diária": 64
+        }
+      },
+      {
+        "Estação": "Tamanduateí",
+        "Passageiros": {
+          "Média Diária": 62
+        }
+      },
+      {
+        "Estação": "Sacomã",
+        "Passageiros": {
+          "Média Diária": 35
+        }
+      },
+      {
+        "Estação": "Alto do Ipiranga",
+        "Passageiros": {
+          "Média Diária": 16
+        }
+      },
+      {
+        "Estação": "Santos-Imigrantes",
+        "Passageiros": {
+          "Média Diária": 12
+        }
+      },
+      {
+        "Estação": "Chácara Klabin",
+        "Passageiros": {
+          "Média Diária": 64
+        }
+      },
+      {
+        "Estação": "Ana Rosa",
+        "Passageiros": {
+          "Média Diária": 1
+        }
+      },
+      {
+        "Estação": "Paraíso",
+        "Passageiros": {
+          "Média Diária": 2
+        }
+      },
+      {
+        "Estação": "Brigadeiro",
+        "Passageiros": {
+          "Média Diária": 41
+        }
+      },
+      {
+        "Estação": "Trianon-Masp",
+        "Passageiros": {
+          "Média Diária": 37
+        }
+      },
+      {
+        "Estação": "Consolação",
+        "Passageiros": {
+          "Média Diária": 82
+        }
+      },
+      {
+        "Estação": "Clínicas",
+        "Passageiros": {
+          "Média Diária": 18
+        }
+      },
+      {
+        "Estação": "Santuário N.S. de Fátima-Sumaré",
+        "Passageiros": {
+          "Média Diária": 8
+        }
+      },
+      {
+        "Estação": "Vila Madalena",
+        "Passageiros": {
+          "Média Diária": 17
+        }
+      }
+    ]
+  },
+  {
+    "Linha": "Linha 3-Vermelha",
+    "Estacoes": [
+      {
+        "Estação": "Corinthians-Itaquera",
+        "Passageiros": {
+          "Média Diária": 71
+        }
+      },
+      {
+        "Estação": "Artur Alvim",
+        "Passageiros": {
+          "Média Diária": 51
+        }
+      },
+      {
+        "Estação": "Patriarca",
+        "Passageiros": {
+          "Média Diária": 19
+        }
+      },
+      {
+        "Estação": "Guilhermina-Esperança",
+        "Passageiros": {
+          "Média Diária": 18
+        }
+      },
+      {
+        "Estação": "Vila Matilde",
+        "Passageiros": {
+          "Média Diária": 23
+        }
+      },
+      {
+        "Estação": "Penha",
+        "Passageiros": {
+          "Média Diária": 25
+        }
+      },
+      {
+        "Estação": "Carrão",
+        "Passageiros": {
+          "Média Diária": 42
+        }
+      },
+      {
+        "Estação": "Tatuapé",
+        "Passageiros": {
+          "Média Diária": 69
+        }
+      },
+      {
+        "Estação": "Belém",
+        "Passageiros": {
+          "Média Diária": 33
+        }
+      },
+      {
+        "Estação": "Bresser-Moóca",
+        "Passageiros": {
+          "Média Diária": 29
+        }
+      },
+      {
+        "Estação": "Brás",
+        "Passageiros": {
+          "Média Diária": 76
+        }
+      },
+      {
+        "Estação": "Pedro II",
+        "Passageiros": {
+          "Média Diária": 15
+        }
+      },
+      {
+        "Estação": "Sé",
+        "Passageiros": {
+          "Média Diária": 178
+        }
+      },
+      {
+        "Estação": "Anhangabaú",
+        "Passageiros": {
+          "Média Diária": 44
+        }
+      },
+      {
+        "Estação": "República",
+        "Passageiros": {
+          "Média Diária": 105
+        }
+      },
+      {
+        "Estação": "Santa Cecília",
+        "Passageiros": {
+          "Média Diária": 21
+        }
+      },
+      {
+        "Estação": "Marechal Deodoro",
+        "Passageiros": {
+          "Média Diária": 24
+        }
+      },
+      {
+        "Estação": "Palmeiras-Barra Funda",
+        "Passageiros": {
+          "Média Diária": 132
+        }
+      }
+    ]
+  }
+]
