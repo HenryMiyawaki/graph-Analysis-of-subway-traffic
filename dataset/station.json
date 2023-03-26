@@ -638,7 +638,7 @@
     "Linha": "Linha 8-Diamante",
     "Estacoes": [
       {
-        "Estação": "Estação  Júlio Prestes",
+        "Estação": "Estação Júlio Prestes",
         "Endereço": "R. Marquês de Itu – Vila Buarque",
         "Integração": ""
       },
@@ -850,6 +850,11 @@
       {
         "Estação": "Estação Grajaú",
         "Endereço": "Parque Alto do Rio Bonito, São Paulo",
+        "Integração": ""
+      },
+      {
+        "Estação": "Estação Bruno Covas-Mendes/Vila Natal",
+        "Endereço": "Jardim Icarai, São Paulo",
         "Integração": ""
       }
     ]
