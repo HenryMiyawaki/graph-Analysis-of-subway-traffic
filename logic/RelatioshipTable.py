@@ -72,7 +72,7 @@ class RelationshipTable():
         self.__matrix = mx
         return self
 
-    def get_repeated_columns_index(self) -> list:
+    def get_repeated_columns_index(self) -> dict:
 
         itens = {}
 
@@ -85,23 +85,29 @@ class RelationshipTable():
             if len(itens[key]) == 1:
                 del itens[key]
 
+
         return itens 
 
     def merge_duplicated(self):
 
         repeated = self.get_repeated_columns_index()
-        self.merge_duplicated_cols(repeated_index = repeated)
+        arr = []
+
+        for key in list(repeated.keys()):
+            arr.extend(repeated[key][1:])
+
+        arr = sorted(arr, reverse=True)
+
+        for index in arr:
+            del self.__matrix[index]
+            for x in self.__matrix:
+                del x[index] 
+            del self.__columns[index]
+
 
         return self
     
-    def merge_duplicated_cols(self, repeated_index = None):
-        
-        if repeated_index == None:
-            repeated_index = self.get_repeated_columns_index()
 
-        print(repeated_index)
-
-        pass
 
     def get_matrix(self):
         if self.__matrix == None:
@@ -127,6 +133,11 @@ class RelationshipTable():
             text = f",{columns}\n{text}"
             
         return text
+
+    def turnoff_interception(self):
+        for index, _ in enumerate(self.__columns):
+            self.__matrix[index][index] = 0
+        return self
 
 
     @staticmethod
