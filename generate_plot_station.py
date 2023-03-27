@@ -2,11 +2,16 @@
 from datetime import datetime
 from dataset import data
 from logic.RelatioshipTable import RelationshipTable
+from logic.StationDataset import StationDataset
 from igraph import Graph, plot
 
 import sys
 
-table = RelationshipTable(data.SUBWAY_DATASET)
+DATASET_LOCATION = "./dataset/station"
+DATASET_FORMAT = "json"
+
+table = RelationshipTable(StationDataset(format=DATASET_FORMAT, location=DATASET_LOCATION).get_dictionary())
+
 table = table.evaluate_matrix()
 
 for arg in sys.argv[1:]:
