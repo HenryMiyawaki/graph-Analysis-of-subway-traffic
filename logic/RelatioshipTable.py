@@ -8,13 +8,14 @@ KEYWORDS = {
 
 
 class RelationshipTable():
-    
+
     __dataset = None
     __columns = None
     __keywords = None
     __matrix = None
+    __firstStations = None
 
-    def __init__(self, dataset, columns = None, keyword = None):
+    def __init__(self, dataset, columns=None, keyword=None):
         self.__dataset = dataset
 
         if keyword == None:
@@ -24,50 +25,64 @@ class RelationshipTable():
             self.__columns = self.get_columns()
 
     def get_columns(self):
-        
+
         if self.__columns != None:
             return self.__columns
 
+        if self.__firstStations != None:
+            return self.__firstStations
+
         cols = []
+        firstStations = []
+        count = 0
+
         for line in self.__dataset:
+            isItFirst = True
             for station in line[self.__keywords["station"]]:
                 cols.append(station[self.__keywords["station_name"]])
 
+                if isItFirst:
+                    firstStations.append(count)
+                    isItFirst = False
+                count = count + 1
+        self.__firstStations = firstStations
         return cols
 
     def get_matrix(self):
         if self.__matrix == None:
             self.__matrix = self.evaluate_matrix()
-        
+
         return self.__matrix
 
     def evaluate_matrix(self):
 
         mx_cols = self.__columns
         mx_lines = self.__columns
+        firstStations = self.__firstStations
 
         if (mx_cols == None) or (mx_lines == None):
             cols = self.get_columns()
             lines = cols
 
-        mx = RelationshipTable.generate_matrix_object(len(mx_cols), len(mx_lines))
+        mx = RelationshipTable.generate_matrix_object(
+            len(mx_cols), len(mx_lines))
 
         for idx_col, col in enumerate(mx_cols):
             for idx_lines, line in enumerate(mx_lines):
-    
+
                 station_line = mx_cols[idx_col]
                 station_col = mx_lines[idx_lines]
-              
+
                 if (station_line == station_col):
-                    
                     mx[idx_col][idx_lines] = 1
 
-                    if (len(mx[idx_col]) != idx_lines + 1):
-                        mx[idx_col][idx_lines + 1] = 1
-                        mx[idx_col + 1][idx_lines] = 1
-                    if (idx_lines != 0):
-                        mx[idx_col][idx_lines - 1] = 1
-                        mx[idx_col - 1][idx_lines] = 1
+                    if(idx_lines not in firstStations and idx_lines + 1 not in firstStations):
+                        if (len(mx[idx_col]) != idx_lines + 1):
+                            mx[idx_col][idx_lines + 1] = 2
+                            mx[idx_col + 1][idx_lines] = 2
+                        if (idx_lines != 0):
+                            mx[idx_col][idx_lines - 1] = 3
+                            mx[idx_col - 1][idx_lines] = 3
 
         self.__matrix = mx
         return self
@@ -85,8 +100,7 @@ class RelationshipTable():
             if len(itens[key]) == 1:
                 del itens[key]
 
-
-        return itens 
+        return itens
 
     def merge_duplicated(self):
 
@@ -101,13 +115,10 @@ class RelationshipTable():
         for index in arr:
             del self.__matrix[index]
             for x in self.__matrix:
-                del x[index] 
+                del x[index]
             del self.__columns[index]
 
-
         return self
-    
-
 
     def get_matrix(self):
         if self.__matrix == None:
@@ -123,15 +134,15 @@ class RelationshipTable():
             return text
 
         for i, c in enumerate(cols):
-            
-            mx_line = ",".join( map(lambda x: str(x), mx[i]) )
+
+            mx_line = ",".join(map(lambda x: str(x), mx[i]))
             line = f'{c},{mx_line}\n'
             text += line
-            
+
         if top_columns:
             columns = ",".join(cols)
             text = f",{columns}\n{text}"
-            
+
         return text
 
     def turnoff_interception(self):
@@ -139,9 +150,8 @@ class RelationshipTable():
             self.__matrix[index][index] = 0
         return self
 
-
-    @staticmethod
-    def generate_matrix_object(lines: int, cols: int, format = 0) -> list:
+    @ staticmethod
+    def generate_matrix_object(lines: int, cols: int, format=0) -> list:
         mx = []
         for i in range(lines):
             mx.append([])
@@ -149,5 +159,3 @@ class RelationshipTable():
                 mx[i].append(0)
 
         return mx
-        
-        
