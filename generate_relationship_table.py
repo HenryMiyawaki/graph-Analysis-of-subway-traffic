@@ -1,4 +1,6 @@
 
+import sys
+
 from logic.RelatioshipTable import RelationshipTable
 from logic.StationDataset import StationDataset
 
@@ -6,9 +8,6 @@ from datetime import datetime
 from dataset import data
 from openpyxl import Workbook
 from openpyxl import Workbook
-
-import sys
-
 
 DATASET_LOCATION = "./dataset/station"
 DATASET_FORMAT = "json"

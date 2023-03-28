@@ -21,6 +21,8 @@ for arg in sys.argv[1:]:
     if func != None:
         table = func()
 
+table = table.arrow_link("Estação Consolação->Estação Paulista")
+
 mx = table.get_matrix()
 
 g = Graph.Adjacency(mx, mode='undirected')
@@ -28,3 +30,4 @@ g.vs["label"] = table.get_columns()
 
 plot(g, target=f'{datetime.now().strftime("%d_%m_%Y_%S")}_graph.pdf', bbox=(
     8000, 8000))
+
