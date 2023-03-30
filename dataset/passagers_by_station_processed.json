@@ -1,0 +1,546 @@
+{
+  "Estação Jabaquara": {
+    "Média Diária": 64
+  },
+  "Estação Conceição": {
+    "Média Diária": 22
+  },
+  "Estação São Judas": {
+    "Média Diária": 13
+  },
+  "Estação Saúde": {
+    "Média Diária": 24
+  },
+  "Estação Praça da Árvore": {
+    "Média Diária": 14
+  },
+  "Estação Santa Cruz": {
+    "Média Diária": 85
+  },
+  "Estação Vila Mariana": {
+    "Média Diária": 17
+  },
+  "Estação Ana Rosa": {
+    "Média Diária": 65
+  },
+  "Estação Paraíso": {
+    "Média Diária": 80
+  },
+  "Estação Vergueiro": {
+    "Média Diária": 23
+  },
+  "Estação São Joaquim": {
+    "Média Diária": 23
+  },
+  "Estação Liberdade - Japão": {
+    "Média Diária": 19
+  },
+  "Estação Sé": {
+    "Média Diária": 159
+  },
+  "Estação São Bento": {
+    "Média Diária": 47
+  },
+  "Estação Luz": {
+    "Média Diária": 112
+  },
+  "Estação Tiradentes": {
+    "Média Diária": 14
+  },
+  "Estação Armênia": {
+    "Média Diária": 19
+  },
+  "Estação Portuguesa - Tietê": {
+    "Média Diária": 42
+  },
+  "Estação Carandiru": {
+    "Média Diária": 10
+  },
+  "Estação Santana": {
+    "Média Diária": 45
+  },
+  "Estação Jardim São Paulo - Ayrton Senna": {
+    "Média Diária": 10
+  },
+  "Estação Parada Inglesa": {
+    "Média Diária": 10
+  },
+  "Estação Tucuruvi": {
+    "Média Diária": 51
+  },
+  "Estação Vila Prudente": {
+    "Média Diária": 64
+  },
+  "Estação Tamanduateí": {
+    "Média Diária": 62
+  },
+  "Estação Sacomã": {
+    "Média Diária": 35
+  },
+  "Estação Alto do Ipiranga": {
+    "Média Diária": 16
+  },
+  "Estação Santos - Imigrantes": {
+    "Média Diária": 12
+  },
+  "Estação Chácara Klabin": {
+    "Média Diária": 64
+  },
+  "Estação Ana Rosa": {
+    "Média Diária": 1
+  },
+  "Estação Paraíso": {
+    "Média Diária": 2
+  },
+  "Estação Brigadeiro": {
+    "Média Diária": 41
+  },
+  "Estação Trianon - Masp": {
+    "Média Diária": 37
+  },
+  "Estação Consolação": {
+    "Média Diária": 82
+  },
+  "Estação Clínicas": {
+    "Média Diária": 18
+  },
+  "Estação Santuário N.S. de Fátima - Sumaré": {
+    "Média Diária": 8
+  },
+  "Estação Vila Madalena": {
+    "Média Diária": 17
+  },
+  "Estação Corinthians - Itaquera": {
+    "Média Diária": 71
+  },
+  "Estação Artur Alvim": {
+      "Média Diária": 51
+  },
+  "Estação Patriarca": {
+      "Média Diária": 19
+  },
+  "Estação Guilhermina-Esperança": {
+      "Média Diária": 18
+  },
+  "Estação Vila Matilde": {
+      "Média Diária": 23
+  },
+  "Estação Penha": {
+      "Média Diária": 25
+  },
+  "Estação Carrão": {
+      "Média Diária": 42
+  },
+  "Estação Tatuapé": {
+      "Média Diária": 69
+  },
+  "Estação Belém": {
+      "Média Diária": 33
+  },
+  "Estação Bresser – Mooca": {
+      "Média Diária": 29
+  },
+  "Estação Brás": {
+      "Média Diária": 76
+  },
+  "Estação Pedro II": {
+      "Média Diária": 15
+  },
+  "Estação Sé": {
+      "Média Diária": 178
+  },
+  "Estação Anhangabaú": {
+      "Média Diária": 44
+  },
+  "Estação República": {
+      "Média Diária": 105
+  },
+  "Estação Santa Cecília": {
+      "Média Diária": 21
+  },
+  "Estação Marechal Deodoro": {
+      "Média Diária": 24
+  },
+  "Estação Palmeiras - Barra Funda": {
+      "Média Diária": 132
+  },
+  "Estação Vila Prudente": {
+    "Média Diária": 49
+  },
+  "Estação Oratório": {
+    "Média Diária": 5
+  },
+  "Estação São Lucas": {
+    "Média Diária": 5
+  },
+  "Estação Camilo Haddad": {
+    "Média Diária": 3
+  },
+  "Estação Vila Tolstói": {
+    "Média Diária": 4
+  },
+  "Estação Vila União": {
+    "Média Diária": 5
+  },
+  "Estação Jardim Planalto": {
+    "Média Diária": 4
+  },
+  "Estação Sapopemba": {
+    "Média Diária": 7
+  },
+  "Estação Fazenda da Juta": {
+    "Média Diária": 4
+  },
+  "Estação São Mateus": {
+    "Média Diária": 16
+  },
+  "Estação Jardim Colonial": {
+    "Média Diária": 4
+  },
+  "Estação Brás": {
+    "Media Diaria": 26
+  },
+  "Estação Juventus Mooca": {
+    "Media Diaria": 7
+  },
+  "Estação Ipiranga": {
+    "Media Diaria": 9
+  },
+  "Estação Tamanduateí": {
+    "Media Diaria": 52
+  },
+  "Estação São Caetano do Sul": {
+    "Media Diaria": 20
+  },
+  "Estação Utinga": {
+    "Media Diaria": 6
+  },
+  "Estação Prefeito Saladino": {
+    "Media Diaria": 5
+  },
+  "Estação Santo André": {
+    "Media Diaria": 43
+  },
+  "Estação Capuava": {
+    "Media Diaria": 3
+  },
+  "Estação Mauá": {
+    "Media Diaria": 38
+  },
+  "Estação Guapituba": {
+    "Media Diaria": 6
+  },
+  "Estação Ribeirão Pires": {
+    "Media Diaria": 12
+  },
+  "Estação Rio Grande da Serra": {
+    "Media Diaria": 8
+  },
+  "Estação Luz": {
+    "Media Diaria": 58
+  },
+  "Estação Brás": {
+    "Media Diaria": 39
+  },
+  "Estação Tatuapé": {
+    "Media Diaria": 36
+  },
+  "Estação Corinthians - Itaquera": {
+    "Media Diaria": 33
+  },
+  "Estação Dom Bosco": {
+    "Media Diaria": 13
+  },
+  "Estação José Bonifácio": {
+    "Media Diaria": 13
+  },
+  "Estação Guaianazes": {
+    "Media Diaria": 56
+  },
+  "Estação Antônio Gianetti Neto": {
+    "Media Diaria": 12
+  },
+  "Estação Ferraz de Vasconcelos": {
+    "Media Diaria": 21
+  },
+  "Estação Poá": {
+    "Media Diaria": 11
+  },
+  "Estação Calmon Viana": {
+    "Media Diaria": 5
+  },
+  "Estação Suzano": {
+    "Media Diaria": 32
+  },
+  "Estação Jundiapeba": {
+    "Media Diaria": 6
+  },
+  "Estação Bras Cubas": {
+    "Media Diaria": 6
+  },
+  "Estação Mogi das Cruzes": {
+    "Media Diaria": 9
+  },
+  "Estação Estudantes": {
+    "Media Diaria": 11
+  },
+  "Estação Brás": {
+    "Média Diária": 42
+  },
+  "Estação Tatuapé": {
+    "Média Diária": 19
+  },
+  "Estação Engenheiro Goulart": {
+    "Média Diária": 5
+  },
+  "Estação USP Leste": {
+    "Média Diária": 5
+  },
+  "Estação Comendador Ermelino": {
+    "Média Diária": 7
+  },
+  "Estação Sao Miguel Paulista": {
+    "Média Diária": 14
+  },
+  "Estação Jardim Helena - Vila Mara": {
+    "Média Diária": 13
+  },
+  "Estação Itaim Paulista": {
+    "Média Diária": 25
+  },
+  "Estação Jardim Romano": {
+    "Média Diária": 15
+  },
+  "Estação Engenheiro Manoel Feio": {
+    "Média Diária": 9
+  },
+  "Estação Itaquaquecetuba": {
+    "Média Diária": 14
+  },
+  "Estação Aracaré": {
+    "Média Diária": 6
+  },
+  "Estação Calmon Viana": {
+    "Média Diária": 1
+  },
+  "Estacao Engenheiro Goulart": {
+    "Média Diária": 1
+  },
+  "Estação Guarulhos": {
+    "Média Diária": 3
+  },
+  "Estação Aeroporto de Guarulhos": {
+    "Média Diária": 8
+  },
+  "Estação Amador Bueno": {"Média Diária": 3 },
+  "Estação Ambuitá": {
+  "Média Diária": 1
+  },
+  "Estação Santa Rita": {
+  "Média Diária": 2
+  },
+  "Estação Itapevi": {
+  "Média Diária": 25
+  },
+  "Estação Engenheiro Cardoso": {
+  "Média Diária": 6
+  },
+  "Estação Sagrado Coração": {
+  "Média Diária": 2
+  },
+  "Estação Jandira": {
+  "Média Diária": 13
+  },
+  "Estação Jardim Silveira": {
+  "Média Diária": 8
+  },
+  "Estação Jardim Belval": {
+  "Média Diária": 3
+  },
+  "Estação Barueri": {
+  "Média Diária": 21
+  },
+  "Estação Antonio João": {
+  "Média Diária": 11
+  },
+  "Estação Santa Terezinha": {
+  "Média Diária": 2
+  },
+  "Estação Carapicuíba": {
+  "Média Diária": 25
+  },
+  "Estação General Miguel Costa": {
+  "Média Diária": 14
+  },
+  "Estação Quitaúna": {
+  "Média Diária": 4
+  },
+  "Estação Comandante Sampaio": {
+  "Média Diária": 9
+  },
+  "Estação Osasco": {
+  "Média Diária": 33
+  },
+  "Estação Presidente Altino": {
+  "Média Diária": 6
+  },
+  "Estação Imperatriz Leopoldina": {
+  "Média Diária": 14
+  },
+  "Estação Domingos de Morais": {
+  "Média Diária": 15
+  },
+  "Estação Lapa": {
+  "Média Diária": 19
+  },
+  "Estação Barra Funda": {
+  "Média Diária": 88
+  },
+  "Estação Júlio Prestes": {
+  "Média Diária": 5
+  },
+  "Estação Osasco": {
+    "Média Diária": 15
+  },
+  "Estação Presidente Altino": {
+    "Média Diária": 3
+  },
+  "Estação Ceasa": {
+    "Média Diária": 5
+  },
+  "Estação Villa Lobos - Jaguaré": {
+    "Média Diária": 11
+  },
+  "Estação Cidade Universitária": {
+    "Média Diária": 6
+  },
+  "Estação Pinheiros": {
+    "Média Diária": 85
+  },
+  "Estação Hebraica - Rebouças": {
+    "Média Diária": 8
+  },
+  "Estação Cidade Jardim": {
+    "Média Diária": 12
+  },
+  "Estação Vila Olímpia": {
+    "Média Diária": 22
+  },
+  "Estação Berrini": {
+    "Média Diária": 12
+  },
+  "Estação Morumbi": {
+    "Média Diária": 17
+  },
+  "Estação Granja Julieta": {
+    "Média Diária": 11
+  },
+  "Estação João Dias": {
+    "Média Diária": 4
+  },
+  "Estação Santo Amaro": {
+    "Média Diária": 71
+  },
+  "Estação Socorro": {
+    "Média Diária": 8
+  },
+  "Estação Jurubatuba": {
+    "Média Diária": 11
+  },
+  "Estação Autódromo": {
+    "Média Diária": 8
+  },
+  "Estação Primavera - Interlagos": {
+    "Média Diária": 13
+  },
+  "Estação Grajaú": {
+    "Média Diária": 47
+  },
+  "Estação Bruno Covas - Mendes - Vila Natal": {
+    "Média Diária": 10
+  },
+  "Estação Capão Redondo": {
+    "Média Diária": 84
+  },
+  "Estação Campo Limpo": {
+    "Média Diária": 35
+  },
+  "Estação Vila das Belezas": {
+    "Média Diária": 12
+  },
+  "Estação Giovanni Gronchi": {
+    "Média Diária": 21
+  },
+  "Estação Santo Amaro": {
+    "Média Diária": 73
+  },
+  "Estação Largo Treze": {
+    "Média Diária": 28
+  },
+  "Estação Adolfo Pinheiro": {
+    "Média Diária": 10
+  },
+  "Estação Alto da Boa Vista": {
+    "Média Diária": 5
+  },
+  "Estação Borba Gato": {
+    "Média Diária": 9
+  },
+  "Estação Brooklin": {
+    "Média Diária": 13
+  },
+  "Estação Campo Belo": {
+    "Média Diária": 10
+  },
+  "Estação Eucaliptos": {
+    "Média Diária": 16
+  },
+  "Estação Moema": {
+    "Média Diária": 17
+  },
+  "Estação AACD -Servidor": {
+    "Média Diária": 10
+  },
+  "Estação Hospital São Paulo": {
+    "Média Diária": 9
+  },
+  "Estação Santa Cruz": {
+    "Média Diária": 63
+  },
+  "Estação Chácara Klabin": {
+    "Média Diária": 71
+  },
+  "Estação Vila Sônia": {
+    "Média Diária": 37
+  },
+  "Estação São Paulo - Morumbi": {
+      "Média Diária": 22
+  },
+  "Estação Butantã": {
+      "Média Diária": 35
+  },
+  "Estação Pinheiros": {
+      "Média Diária": 88
+  },
+  "Estação Faria Lima": {
+      "Média Diária": 30
+  },
+  "Estação Fradique Coutinho": {
+      "Média Diária": 15
+  },
+  "Estação Oscar Freire": {
+      "Média Diária": 21
+  },
+  "Estação Paulista": {
+      "Média Diária": 84
+  },
+  "Estação Higienópolis": {
+      "Média Diária": 19
+  },
+  "Estação República": {
+      "Média Diária": 93
+  },
+  "Estação Luz": {
+      "Média Diária": 114
+  }  
+}
