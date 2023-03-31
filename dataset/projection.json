@@ -209,8 +209,11 @@
     ]
   },
   {
-    "Linha": "Extensão Linha 15-Prata",
+    "Linha": "Linha 15-Prata",
     "Estacoes": [
+      {
+        "Estação": "Estação São Mateus"
+      },
       {
         "Estação": "Estação Iguatemi"
       },
@@ -235,8 +238,11 @@
     ]
   },
   {
-    "Linha": "Extensão Linha 2-Verde",
+    "Linha": "Linha 2-Verde",
     "Estacoes": [
+      {
+        "Estação": "Estação Vila Prudente"
+      },
       {
         "Estação": "Estação Orfanato"
       },

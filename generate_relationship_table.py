@@ -1,17 +1,22 @@
 
 import sys
+from datetime import datetime
 
+from openpyxl import Workbook
+
+from dataset import data
 from logic.RelatioshipTable import RelationshipTable
 from logic.StationDataset import StationDataset
 
-from datetime import datetime
-from dataset import data
-from openpyxl import Workbook
-
 DATASET_LOCATION = "./dataset/station"
+DATASET_LOCATION_PROJECTION = "./dataset/projection"
 DATASET_FORMAT = "json"
 
-table = RelationshipTable(StationDataset(format=DATASET_FORMAT, location=DATASET_LOCATION).get_dictionary())
+join_dict = StationDataset(
+    format=DATASET_FORMAT, location=DATASET_LOCATION).get_dictionary() + StationDataset(
+    format=DATASET_FORMAT, location=DATASET_LOCATION_PROJECTION).get_dictionary()
+
+table = RelationshipTable(join_dict)
 table = table.evaluate_matrix()
 
 for arg in sys.argv[1:]:
