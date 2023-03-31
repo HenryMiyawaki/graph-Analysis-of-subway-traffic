@@ -25,6 +25,8 @@ for arg in sys.argv[1:]:
     if func != None:
         table = func()
 
+table = table.arrow_link("Estação Consolação->Estação Paulista")
+
 mx = table.get_matrix()
 
 g = Graph.Adjacency(mx, mode='undirected')
