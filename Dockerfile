@@ -1,4 +1,7 @@
 FROM python
-RUN pip install igraph && pip install pycairo
-RUN apt-get update && apt-get install -y nano
+
 COPY . .
+
+RUN pip install --upgrade pip
+RUN pip install -r requirements.txt
+RUN apt-get update && apt-get install -y nano
