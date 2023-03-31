@@ -1,16 +1,14 @@
+import config
 import igraph as ig
 import matplotlib.pyplot as plt
 
 from datetime import datetime
-from logic.get_station_graph import get_station_graph
 
-g = get_station_graph(["merge_duplicated", "turnoff_interception"])
+g, _ = config.get_graph()
 layout = g.layout("grid")
 
 spanning_tree = g.spanning_tree(weights=None, return_tree=False)
 fig, ax = plt.subplots()
-
-print(spanning_tree)
 
 g.es["color"] = "lightgray"
 g.es[spanning_tree]["color"] = "midnightblue"
@@ -19,9 +17,11 @@ g.es[spanning_tree]["width"] = 3.0
 
 ig.plot(
     g,
-    target=f'{datetime.now().strftime("%d_%m_%Y_%S")}_tree_graph.pdf',
+    target=f'{config.get_exit_dateformat()}_tree_graph.pdf',
     layout=layout,
-    vertex_color="lightblue",
+    vertex_color=config.VERTEX_COLOR,
     edge_width=g.es["width"],
-    bbox=(8000, 8000)
+    bbox=config.BOX_SIZE
 )
+
+print(f"---- {__file__} output generated ")

@@ -15,8 +15,13 @@ analytis_report = {
     "graph": {
         "articulation_points": g.articulation_points(),
         "spanning_tree": g.spanning_tree(weights=None, return_tree=False),
-        "edge_betweeness": g.community_edge_betweenness(),
-        "communities": g.community_edge_betweenness().as_clustering()
-
+        "community_edge_betweeness": g.community_edge_betweenness(),
+        "communities": g.community_edge_betweenness().as_clustering(),
+        "bridges": g.bridges(),
+        "vertex_betweenness": g.betweenness(),
+        "edge_betweenness": g.edge_betweenness(),
+        "closeness": g.closeness
     }
 }
+
+print(analytis_report)
