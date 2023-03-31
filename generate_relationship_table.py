@@ -20,3 +20,4 @@ if config.SAVE:
     wb.save(f"./data/output/adjascenty_matrix/{filename}.xlsx")
     if config.SUPRESS_OUTPUT:
         print("---- output generated on ./data/output/adjascenty_matrix/ directory")
+

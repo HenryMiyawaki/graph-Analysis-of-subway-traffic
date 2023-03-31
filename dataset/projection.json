@@ -1,0 +1,275 @@
+[
+  {
+    "Linha": "Linha Celeste",
+    "Estacoes": [
+      {
+        "Estação": "Estação Vila Augusta"
+      },
+      {
+        "Estação": "Estação São Bento"
+      },
+      {
+        "Estação": "Estacionamento Belém"
+      },
+      {
+        "Estação": "Estação Silva Teles"
+      },
+      {
+        "Estação": "Estação Anhangabaú"
+      },
+      {
+        "Estação": "Pátio Vila Medeiros"
+      },
+      {
+        "Estação": "Estação Dutra"
+      },
+      {
+        "Estação": "Estação Bosque Maia"
+      },
+      {
+        "Estação": "Estação Pari"
+      },
+      {
+        "Estação": "Estação Vila Maria"
+      },
+      {
+        "Estação": "Estação Catumbi"
+      },
+      {
+        "Estação": "Estação Jardim Japão"
+      }
+    ]
+  },
+  {
+    "Linha": "Linha Ouro",
+    "Estacoes": [
+      {
+        "Estação": "Estação São Paulo-Morumbi"
+      },
+      {
+        "Estação": "Estação Estádio Morumbi"
+      },
+      {
+        "Estação": "Estação Américo Maurano"
+      },
+      {
+        "Estação": "Estação Paraísopolis"
+      },
+      {
+        "Estação": "Estação Panamby"
+      },
+      {
+        "Estação": "Estação Morumbi"
+      },
+      {
+        "Estação": "Estação Chucri Zaidan"
+      },
+      {
+        "Estação": "Estação Vila Cordeiro"
+      },
+      {
+        "Estação": "Estação Campo Belo"
+      },
+      {
+        "Estação": "Estação Vereador José Diniz"
+      },
+      {
+        "Estação": "Estação Broklin Paulista"
+      },
+      {
+        "Estação": "Estação Congonhas"
+      },
+      {
+        "Estação": "Estação Jardim Aeroporto"
+      },
+      {
+        "Estação": "Estação Vila Paulista"
+      },
+      {
+        "Estação": "Estação Vila Babilônia"
+      },
+      {
+        "Estação": "Estação Cidade Leonor"
+      },
+      {
+        "Estação": "Estação Hospital Sabóia"
+      },
+      {
+        "Estação": "Estação Jabaquara"
+      }
+    ]
+  },
+  {
+    "Linha": "Linha Laranja",
+    "Estacoes": [
+      {
+        "Estação": "Estação São Joaquim"
+      },
+      {
+        "Estação": "Estação Bela Vista"
+      },
+      {
+        "Estação": "Estação 14 Bis"
+      },
+      {
+        "Estação": "Estação Higienópolis-Mackenzie"
+      },
+      {
+        "Estação": "Estação FAAP-Pacaembu"
+      },
+      {
+        "Estação": "Estação PUC-Cardoso de Almeida"
+      },
+      {
+        "Estação": "Estação Perdizes"
+      },
+      {
+        "Estação": "Estação SESC-Pompeia"
+      },
+      {
+        "Estação": "Estação Água Branca"
+      },
+      {
+        "Estação": "Estação Santa Marina"
+      },
+      {
+        "Estação": "Estação Freguesia do Ó"
+      },
+      {
+        "Estação": "Estação Itaberaba-Hospital Vila Penteado"
+      },
+      {
+        "Estação": "Estação Vila Cardoso"
+      },
+      {
+        "Estação": "Estação Brasilândia"
+      },
+      {
+        "Estação": "Estação Pátio Morro Grande"
+      }
+    ]
+  },
+  {
+    "Linha": "Linha Marrom",
+    "Estacoes": [
+      {
+        "Estação": "Estação Sumaré"
+      },
+      {
+        "Estação": "Estação Teodoro Sampaio"
+      },
+      {
+        "Estação": "Estação Faria Lima"
+      },
+      {
+        "Estação": "Estação Hebraica-Rebouças"
+      },
+      {
+        "Estação": "Estação Vital Brasil"
+      },
+      {
+        "Estação": "Estação Universidade São Paulo"
+      },
+      {
+        "Estação": "Estação Rio Pequeno"
+      },
+      {
+        "Estação": "Estação Jardim Esmeralda"
+      },
+      {
+        "Estação": "Estação Monte Belo"
+      },
+      {
+        "Estação": "Estação Jardim Boa Vista"
+      },
+      {
+        "Estação": "Estação Victor Cívica"
+      },
+      {
+        "Estação": "Estação Santa Marina"
+      },
+      {
+        "Estação": "Estação Granja Viana"
+      },
+      {
+        "Estação": "Estação Mesopotâmia"
+      },
+      {
+        "Estação": "Estação Estrada do Embu"
+      },
+      {
+        "Estação": "Estação Parque Alexandra"
+      },
+      {
+        "Estação": "Estação Santo Antônio"
+      },
+      {
+        "Estação": "Estação Cotia"
+      }
+    ]
+  },
+  {
+    "Linha": "Linha 15-Prata",
+    "Estacoes": [
+      {
+        "Estação": "Estação São Mateus"
+      },
+      {
+        "Estação": "Estação Iguatemi"
+      },
+      {
+        "Estação": "Estação Jequiriçá"
+      },
+      {
+        "Estação": "Estação Jacu-Pêssego"
+      },
+      {
+        "Estação": "Estação Érico Semer"
+      },
+      {
+        "Estação": "Estação Márcio Beck"
+      },
+      {
+        "Estação": "Estação Cidade Tiradentes"
+      },
+      {
+        "Estação": "Estação Hospital C. Tiradentes"
+      }
+    ]
+  },
+  {
+    "Linha": "Linha 2-Verde",
+    "Estacoes": [
+      {
+        "Estação": "Estação Vila Prudente"
+      },
+      {
+        "Estação": "Estação Orfanato"
+      },
+      {
+        "Estação": "Estação Santa Clara"
+      },
+      {
+        "Estação": "Estação Anália Franco"
+      },
+      {
+        "Estação": "Estação Vila Formosa"
+      },
+      {
+        "Estação": "Estação Complexo Rapadura"
+      },
+      {
+        "Estação": "Estação Santa Isabel"
+      },
+      {
+        "Estação": "Estação Guilherme Giorgi"
+      },
+      {
+        "Estação": "Estação Aricanduva"
+      },
+      {
+        "Estação": "Estação Penha"
+      }
+    ]
+  }
+]
