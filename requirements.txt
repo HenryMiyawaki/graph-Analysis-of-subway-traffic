@@ -2,3 +2,4 @@ igraph
 pycairo
 openpyxl
 matplotlib
+numpy

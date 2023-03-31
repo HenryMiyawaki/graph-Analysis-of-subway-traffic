@@ -32,7 +32,7 @@
   "Estação São Joaquim": {
     "Média Diária": 23
   },
-  "Estação Liberdade - Japão": {
+  "Estação Liberdade": {
     "Média Diária": 19
   },
   "Estação Sé": {
@@ -50,7 +50,7 @@
   "Estação Armênia": {
     "Média Diária": 19
   },
-  "Estação Portuguesa - Tietê": {
+  "Estação Portuguesa – Tietê": {
     "Média Diária": 42
   },
   "Estação Carandiru": {
@@ -59,7 +59,7 @@
   "Estação Santana": {
     "Média Diária": 45
   },
-  "Estação Jardim São Paulo - Ayrton Senna": {
+  "Estação Jardim São Paulo – Ayrton Senna": {
     "Média Diária": 10
   },
   "Estação Parada Inglesa": {
@@ -80,7 +80,7 @@
   "Estação Alto do Ipiranga": {
     "Média Diária": 16
   },
-  "Estação Santos - Imigrantes": {
+  "Estação Santos – Imigrantes": {
     "Média Diária": 12
   },
   "Estação Chácara Klabin": {
@@ -89,7 +89,7 @@
   "Estação Brigadeiro": {
     "Média Diária": 41
   },
-  "Estação Trianon - Masp": {
+  "Estação Trianon MASP": {
     "Média Diária": 37
   },
   "Estação Consolação": {
@@ -98,13 +98,13 @@
   "Estação Clínicas": {
     "Média Diária": 18
   },
-  "Estação Santuário N.S. de Fátima - Sumaré": {
+  "Estação Sumaré": {
     "Média Diária": 8
   },
   "Estação Vila Madalena": {
     "Média Diária": 17
   },
-  "Estação Corinthians - Itaquera": {
+  "Estação Corinthians – Itaquera": {
     "Média Diária": 104
   },
   "Estação Artur Alvim": {
@@ -113,7 +113,7 @@
   "Estação Patriarca": {
       "Média Diária": 19
   },
-  "Estação Guilhermina-Esperança": {
+  "Estação Guilhermina – Esperança": {
       "Média Diária": 18
   },
   "Estação Vila Matilde": {
@@ -152,7 +152,7 @@
   "Estação Marechal Deodoro": {
       "Média Diária": 24
   },
-  "Estação Palmeiras - Barra Funda": {
+  "Estação Palmeiras – Barra Funda": {
       "Média Diária": 132
   },
   "Estação Oratório": {
@@ -186,73 +186,73 @@
     "Média Diária": 4
   },
   "Estação Juventus Mooca": {
-    "Media Diaria": 7
+    "Média Diária": 7
   },
   "Estação Ipiranga": {
-    "Media Diaria": 9
+    "Média Diária": 9
   },
   "Estação São Caetano do Sul": {
-    "Media Diaria": 20
+    "Média Diária": 20
   },
   "Estação Utinga": {
-    "Media Diaria": 6
+    "Média Diária": 6
   },
   "Estação Prefeito Saladino": {
-    "Media Diaria": 5
+    "Média Diária": 5
   },
   "Estação Santo André": {
-    "Media Diaria": 43
+    "Média Diária": 43
   },
   "Estação Capuava": {
-    "Media Diaria": 3
+    "Média Diária": 3
   },
   "Estação Mauá": {
-    "Media Diaria": 38
+    "Média Diária": 38
   },
   "Estação Guapituba": {
-    "Media Diaria": 6
+    "Média Diária": 6
   },
   "Estação Ribeirão Pires": {
-    "Media Diaria": 12
+    "Média Diária": 12
   },
   "Estação Rio Grande da Serra": {
-    "Media Diaria": 8
+    "Média Diária": 8
   },
   "Estação Dom Bosco": {
-    "Media Diaria": 13
+    "Média Diária": 13
   },
   "Estação José Bonifácio": {
-    "Media Diaria": 13
+    "Média Diária": 13
   },
   "Estação Guaianazes": {
-    "Media Diaria": 56
+    "Média Diária": 56
   },
-  "Estação Antônio Gianetti Neto": {
-    "Media Diaria": 12
+  "Estação Antônio Gianetti Netto": {
+    "Média Diária": 12
   },
   "Estação Ferraz de Vasconcelos": {
-    "Media Diaria": 21
+    "Média Diária": 21
   },
   "Estação Poá": {
-    "Media Diaria": 11
+    "Média Diária": 11
   },
   "Estação Calmon Viana": {
-    "Media Diaria": 6
+    "Média Diária": 6
   },
   "Estação Suzano": {
-    "Media Diaria": 32
+    "Média Diária": 32
   },
   "Estação Jundiapeba": {
-    "Media Diaria": 6
+    "Média Diária": 6
   },
-  "Estação Bras Cubas": {
-    "Media Diaria": 6
+  "Estação Brás Cubas": {
+    "Média Diária": 6
   },
   "Estação Mogi das Cruzes": {
-    "Media Diaria": 9
+    "Média Diária": 9
   },
   "Estação Estudantes": {
-    "Media Diaria": 11
+    "Média Diária": 11
   },
   "Estação Engenheiro Goulart": {
     "Média Diária": 5
@@ -263,10 +263,10 @@
   "Estação Comendador Ermelino": {
     "Média Diária": 7
   },
-  "Estação Sao Miguel Paulista": {
+  "Estação São Miguel Paulista": {
     "Média Diária": 14
   },
-  "Estação Jardim Helena - Vila Mara": {
+  "Estação Jardim Helena": {
     "Média Diária": 13
   },
   "Estação Itaim Paulista": {
@@ -321,10 +321,10 @@
   "Estação Barueri": {
   "Média Diária": 21
   },
-  "Estação Antonio João": {
+  "Estação Antônio João": {
   "Média Diária": 11
   },
-  "Estação Santa Terezinha": {
+  "Estação Santa Teresinha": {
   "Média Diária": 2
   },
   "Estação Carapicuíba": {
@@ -348,7 +348,7 @@
   "Estação Imperatriz Leopoldina": {
   "Média Diária": 14
   },
-  "Estação Domingos de Morais": {
+  "Estação Domingo de Moraes": {
   "Média Diária": 15
   },
   "Estação Lapa": {
@@ -363,7 +363,7 @@
   "Estação Ceasa": {
     "Média Diária": 5
   },
-  "Estação Villa Lobos - Jaguaré": {
+  "Estação Villa-Lobos Jaguaré": {
     "Média Diária": 11
   },
   "Estação Cidade Universitária": {
@@ -372,7 +372,7 @@
   "Estação Pinheiros": {
     "Média Diária": 173
   },
-  "Estação Hebraica - Rebouças": {
+  "Estação Hebraica-Rebouças": {
     "Média Diária": 8
   },
   "Estação Cidade Jardim": {
@@ -405,13 +405,13 @@
   "Estação Autódromo": {
     "Média Diária": 8
   },
-  "Estação Primavera - Interlagos": {
+  "Estação Primavera-Interlagos": {
     "Média Diária": 13
   },
   "Estação Grajaú": {
     "Média Diária": 47
   },
-  "Estação Bruno Covas - Mendes - Vila Natal": {
+  "Estação Bruno Covas-Mendes/Vila Natal": {
     "Média Diária": 10
   },
   "Estação Capão Redondo": {
@@ -420,13 +420,13 @@
   "Estação Campo Limpo": {
     "Média Diária": 35
   },
-  "Estação Vila das Belezas": {
+  "Estação Vila Das Belezas": {
     "Média Diária": 12
   },
   "Estação Giovanni Gronchi": {
     "Média Diária": 21
   },
-  "Estação Largo Treze": {
+  "Estação Largo 13": {
     "Média Diária": 28
   },
   "Estação Adolfo Pinheiro": {
@@ -450,7 +450,7 @@
   "Estação Moema": {
     "Média Diária": 17
   },
-  "Estação AACD -Servidor": {
+  "Estação AACD-Servidor": {
     "Média Diária": 10
   },
   "Estação Hospital São Paulo": {
@@ -459,7 +459,7 @@
   "Estação Vila Sônia": {
     "Média Diária": 37
   },
-  "Estação São Paulo - Morumbi": {
+  "Estação São Paulo – Morumbi": {
       "Média Diária": 22
   },
   "Estação Butantã": {
@@ -527,5 +527,35 @@
   },
   "Estação Jundiaí": {
     "Média Diária": 9
+  },
+  "Estação Eng Manoel Feio" :{
+      "Média Diária": 9
+  },
+  "Estação Pref Celso Daniel-ABC": {
+      "Média Diária": 43
+  },
+  "Estação Cimenrita": {
+    "Média Diária": 0
+  },
+  "Estação Hospital Cidade Tiradentes": {
+    "Média Diária": 0
+  },
+  "Estação Cidade Tiradentes": {
+    "Média Diária": 0
+  },
+  "Estação Márcio Beck": {
+    "Média Diária": 0
+  },
+  "Estação Érico Semer": {
+    "Média Diária": 0
+  },
+  "Estação Jacú- Pessêgo": {
+    "Média Diária": 0
+  },
+  "Estação Iguatemi": {
+    "Média Diária": 0
+  },
+  "Estação Jequiriçá": {
+    "Média Diária": 0
   }
 }
