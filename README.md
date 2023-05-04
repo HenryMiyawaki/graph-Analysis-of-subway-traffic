@@ -30,7 +30,7 @@ the following command was runned to create the matrix:
 ### Circle
 3c93e2c9-34df-470b-aaf7-9c196e07dfd2%2FExport-71273bf3-0e4a-4b01-ba43-24c448658141/CR 6989f5e334474d95a62076f2bd356f92/31_03_2023_209483_circle_page-0001.jpg
 
-![Image description](./readmefiles/images/cluster.jpg)
+<img src="./readmefiles/images/cluster.jpg" alt="Cluster Image" width="400" height="300">
 
 
 ### Clusters
