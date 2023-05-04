@@ -1,7 +1,4 @@
-
-import sys
 import config
-from datetime import datetime
 
 from igraph import Graph, plot
 

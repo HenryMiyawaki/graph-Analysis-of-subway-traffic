@@ -1,4 +1,3 @@
-
 import config
 
 from openpyxl import Workbook
