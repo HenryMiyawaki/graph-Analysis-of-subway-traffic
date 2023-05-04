@@ -28,11 +28,15 @@ the following command was runned to create the matrix:
 # Graphs
 
 ### Circle
+
 <img src="./readmefiles/images/circle.jpg" alt="Cluster Image" width="400" height="300">
+
 ### Clusters
 <img src="./readmefiles/images/cluster.jpg" alt="Cluster Image" width="400" height="300">
+
 ### Bridges
 <img src="./readmefiles/images/bridges.jpg" alt="Cluster Image" width="400" height="300">
+
 ## 💻Repo
 
 [https://github.com/felipemelonunes09/graph-Analysis-of-subway-traffic](https://github.com/felipemelonunes09/graph-Analysis-of-subway-traffic)
